@@ -9,3 +9,4 @@ nav {position: absolute; top: 55px; right: 0;}
 nav li {display: inline; margin: 0 0 0 15px;}
 nav a {text-transform: uppercase; color: black; font-weight: bold; font-size: 22px; text-decoration: none;}
 footer {background: rgb(255, 180, 255);}
+.logotiposherevela {width: 10%; height: 10%;}
