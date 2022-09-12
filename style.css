@@ -1,6 +1,7 @@
 body {background-color: rgb(255, 191, 255);}
 main {text-align:justify;text-align: center}
 .titulos {color: rgb(36, 36, 165); size: 27px; width: bold;}
+p {size: 22px;}
 em {font-size: 18px;color: rgb(104, 31, 104)}
 header {background: rgb(255, 180, 255); padding: 20px 0;}
 .logo {width: 25%; height: 20%;}
